@@ -2,6 +2,10 @@
 
 Connectverse is a full-stack web application built with a React frontend and an Express backend. The application includes user authentication, password reset functionality, and rate limiting to prevent brute-force attacks.
 
+![alt text](<Screenshot 2025-02-11 124700.png>)
+ ![alt text](<Screenshot 2025-02-11 124617.png>)
+  ![alt text](<Screenshot 2025-02-11 124643.png>)
+
 ## Table of Contents
 
 - Features
